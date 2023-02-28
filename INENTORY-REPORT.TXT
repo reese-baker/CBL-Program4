@@ -1,0 +1,154 @@
+
+                                  HEALING VIBES
+          22/12/08               INVENTORY REPORT           UTAH
+
+  WAREHOUSE: UTAH WAREHOUSE 1
+
+             MMad Hatter Oil
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     NightMilk        C03   Extra Large   Cream   1009   $ 339,013.91
+                      C03   Large         Cream    959   $ 226,314.41
+                      C03   Medium        Cream    929   $ 144,914.71
+                      C03   Small         Cream   1019   $ 108,003.81
+                      C03   Sample        Cream    401   $  14,431.99
+
+               TOTAL PRODUCT: NightMilk                 $  832,678.83
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Lavender Bud     O03   Extra Large   Oil     2011   $ 116,617.89
+                      O03   Large         Oil      805   $  17,701.95
+                      O03   Medium        Oil      514   $   5,134.86
+                      O03   BAD           BAD      000   $        .00
+                      O03   BAD           BAD      000   $        .00
+
+               TOTAL PRODUCT: Lavender Bud              $  139,454.70
+
+            TOTAL FOR VENDOR: MMad Hatter Oil          $  972,133.53
+
+             INVALID
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     RoseMilk Balm    C02   BAD           Cream   2221   $ 190,983.79
+                      C02   Large         Cream    821   $  45,967.79
+                      C02   Medium        Cream    581   $  20,910.19
+                      C02   Small         Cream   2021   $  32,315.79
+                      C02   Sample        Cream    325   $   1,946.75
+
+               TOTAL PRODUCT: RoseMilk Balm             $  292,124.31
+
+            TOTAL FOR VENDOR: INVALID                  $  292,124.31
+
+             MMad Hatter Oil
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Catnip Oil       O06   Extra Large   Oil     3020   $ 211,369.80
+                      O06   Large         Oil      725   $  36,242.75
+                      O06   Medium        Oil      815   $  24,441.85
+                      O06   Small         Oil     2125   $  42,478.75
+                      O06   Sample        Oil      805   $   8,041.95
+
+               TOTAL PRODUCT: Catnip Oil                $  322,575.10
+
+            TOTAL FOR VENDOR: MMad Hatter Oil          $  322,575.10
+
+             MMad Hatter Oil
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Fairy DewDrop    O04   Extra Large   Oil     1005   $  86,419.95
+                      O04   Large         Oil      902   $  50,502.98
+                      O04   Medium        Oil      724   $  26,056.76
+                      O04   Small         Oil     2035   $  32,539.65
+                      O04   Sample        Oil      615   $   3,683.85
+
+               TOTAL PRODUCT: Fairy DewDrop             $  199,203.19
+
+            TOTAL FOR VENDOR: MMad Hatter Oil          $  199,203.19
+
+         TOTAL FOR WAREHOUSE: UTAH WAREHOUSE 1       $1,786,036.13
+
+  WAREHOUSE: UTAH WAREHOUSE 2
+
+             MMad Hatter Oil
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     NightMilk        C03   Extra Large   Cream   1009   $ 339,013.91
+                      C03   Large         Cream    959   $ 226,314.41
+                      C03   Medium        Cream    929   $ 144,914.71
+                      C03   Small         Cream   1019   $ 108,003.81
+                      C03   Sample        Cream    401   $  14,431.99
+
+               TOTAL PRODUCT: NightMilk                 $  832,678.83
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Cheebs Magic     C05   Extra Large   Cream   1015   $ 138,029.85
+                      C05   Large         Cream    515   $  49,434.85
+                      C05   Medium        Cream    915   $  51,230.85
+                      C05   Small         Cream   1010   $  36,349.90
+                      C05   Sample        Cream    815   $     806.85
+
+               TOTAL PRODUCT: Cheebs Magic              $  275,852.30
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Lavender Bud     O03   Extra Large   Oil     2011   $ 116,617.89
+                      O03   Large         Oil      805   $  17,701.95
+                      O03   Medium        Oil      514   $   5,134.86
+                      O03   Small         Oil     1101   $   6,594.99
+                      O03   Sample        Oil      521   $     515.79
+
+               TOTAL PRODUCT: Lavender Bud              $  146,565.48
+
+            TOTAL FOR VENDOR: MMad Hatter Oil          $1,255,096.61
+
+             MMad Hatter Oil
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Catnip Oil       O06   Extra Large   Oil     3020   $ 211,369.80
+                      O06   Large         Oil      725   $  36,242.75
+                      O06   Medium        Oil      815   $  24,441.85
+                      O06   Small         Oil     2125   $  42,478.75
+                      O06   Sample        Oil      805   $   8,041.95
+
+               TOTAL PRODUCT: Catnip Oil                $  322,575.10
+
+            TOTAL FOR VENDOR: MMad Hatter Oil          $  322,575.10
+
+             MMad Hatter Oil
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     RoseMilk Balm    C02   Extra Large   Cream   2221   $ 190,983.79
+                      C02   Large         Cream    821   $  45,967.79
+                      C02   Medium        Cream    581   $  20,910.19
+                      C02   Small         Cream   2021   $  32,315.79
+                      C02   Sample        Cream    325   $   1,946.75
+
+               TOTAL PRODUCT: RoseMilk Balm             $  292,124.31
+
+        PRODUCT       PROD    PRODUCT     PROD     IN       TOTAL
+          NAME         ID      SIZE       TYPE    STOCK     COST
+     Fairy DewDrop    O04   Extra Large   Oil     1005   $  86,419.95
+                      O04   Large         Oil      902   $  50,502.98
+                      O04   Medium        Oil      724   $  26,056.76
+                      O04   Sample        Oil     2035   $  32,539.65
+                      O04   Sample        Oil      615   $   3,683.85
+
+               TOTAL PRODUCT: Fairy DewDrop             $  199,203.19
+
+            TOTAL FOR VENDOR: MMad Hatter Oil          $  491,327.50
+
+         TOTAL FOR WAREHOUSE: UTAH WAREHOUSE 2       $2,068,999.21
+
+             TOTAL ERRORS: 04
+
+
+                 GRAND TOTAL: UTAH                  $    3,855,035.34
